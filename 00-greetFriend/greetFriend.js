@@ -1,6 +1,6 @@
 function greetFriend(name) {
   // Insert code here;
-  var str = "Hello, " + name + "!";
+  var str = "Hello, " + name + "!!!";
   return str;
 }
 
