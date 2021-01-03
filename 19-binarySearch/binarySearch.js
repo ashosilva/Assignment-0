@@ -5,7 +5,6 @@ class MySolution {
 
   binarySearch(nums, target) {
     // Insert code here;
-    
   }
 }
 
