@@ -3,7 +3,7 @@ function setUnionOfAnyAmountOfSets(...args) {
   var value = new Set();
   for(const set of args){
     for (const elem of set){
-        value.add(elem)
+        value.add(elem);
     }
   }
   return value;
