@@ -3,8 +3,9 @@ class MySolution {
     // Insert code here;
     if(num == 1){
       return 1;
-    }else (num>0) 
+    }else if(num>0){
       return (num + this.countDownSum(num-1));
+    }   
   }
 }
 
